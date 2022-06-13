@@ -1,0 +1,47 @@
+<! DOCTYPE html
+<html>
+				<head>
+								<title>Coffee project</title>
+				</head>
+				<body>
+								<img src="logo.png">
+								<h1 top of the page>Coffee Junkie</h1>
+								<ul>
+												<li><a href="Coffee Junkie.html">Home</a></li>
+												<li><a href="about.html">About</a></li>
+												<li><a href="numbers.html">Numbers</a></a></li>
+												<li><a href="contact.html">Contact</a></li>
+								</ul>
+								<!-- Background Image -->
+		<img src="back.jpg" width="700" height="270">
+		<h1>Featured products</h1>
+		<br>
+		<!-- House Blend Coffee -->
+		<h2>House Blend Coffee</h2>
+		<img src="Hbc.jpeg" width="230" height="219">
+		<p style="width:100%">House Blends can often be described as reliable and straightforward – a blend that is a “go-to” in a coffee shop. </p>
+		<a href="https://www.wikipedia.org/">Details</a>
+		<br>
+		<br>
+		<!-- French Roast -->
+		<h2>French Roast</h2>
+		<img src="FR.jpg" width="230" height="219">
+		<p>“French roast” describes the color of the coffee bean after they have been roasted.   	These beans are on the darker end of the scale, and are usually the color of dark chocolate</p>
+		<a href="https://www.wikipedia.org/">Details</a>
+		<br>
+		<br>
+		<!-- Colombian Roast -->
+		<h2>Colombian Roast</h2>
+		<img src="CR.jpg" width="230" height="219">
+		<p>Colombian coffee also has a dark roast used to make rich espresso blends.Colombia is famous for its coffee beans, which can be used to make both light roasts and dark roasts.</p>
+		<a href="https://www.wikipedia.org/">Details</a>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<p>Copyright &copy;2022</p>
+		<h3><a href="#top">Back to the Top</a></h3>
+		
+		</body>
+</html>
